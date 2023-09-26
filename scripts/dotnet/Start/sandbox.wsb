@@ -1,0 +1,15 @@
+<Configuration>
+    <MappedFolders>
+        <MappedFolder>
+            <HostFolder>C:\Sandbox\Install</HostFolder>
+            <SandboxFolder>C:\Install</SandboxFolder>
+        </MappedFolder>
+        <MappedFolder>
+            <HostFolder>C:\Sandbox\Start</HostFolder>
+            <SandboxFolder>C:\Start</SandboxFolder>
+        </MappedFolder>
+    </MappedFolders>
+    <LogonCommand>
+        <Command>C:\Start\start.cmd</Command>
+    </LogonCommand>
+</Configuration>
